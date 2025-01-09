@@ -1,0 +1,20 @@
+	PJ Pizza
+
+	Bill Generated
+*****************************
+
+Regular - Fresh Pan with Onion, Tomato: 120.0
+Medium - Hand Tossed with Corn, Capsicum: 180.0
+Large - Cheese Burst with Mushroom, Black Olives, Jalapeno: 365.0
+
+-----------------------------
+-----------------------------
+
+Total : 		665.0
+GST   : 		119.7
+-----------------------------
+SubTotal : 		784.7
+
+*****************************
+
+Thank You Visit Again !!
